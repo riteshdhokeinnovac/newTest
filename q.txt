@@ -1,0 +1,18 @@
+1) Two table user and exam
+2) Remove duplicate from array();
+3) Advantage and disadvanges of index
+4) how to save space 
+5) Create Chess Board 
+6) leap year
+7) factorial
+8) prime
+9) string reverse
+10) number reverse
+11) pattern : 12345678
+              1234567
+              123456
+              12345
+12) Create table : ?
+13) print table output
+14) var_dump 0123==123
+15) 
