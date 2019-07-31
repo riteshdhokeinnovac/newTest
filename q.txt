@@ -15,4 +15,7 @@
 12) Create table : ?
 13) print table output
 14) var_dump 0123==123
+<<<<<<< HEAD
 asd
+=======
+>>>>>>> 6bb14d547f93ce594c4469881d6b7a6ea64c99d7
