@@ -15,4 +15,3 @@
 12) Create table : ?
 13) print table output
 14) var_dump 0123==123
-17)
